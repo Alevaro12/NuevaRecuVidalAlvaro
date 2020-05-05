@@ -1593,3 +1593,162 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.05-14.04.19:561][641]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
 [2020.05.05-14.04.19:561][641]LogContentValidation: Display: Validating AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
 [2020.05.05-14.04.19:561][641]LogContentValidation: Display: Validating AnimMontage /Game/Animaciones/AnimationMontage/MontageBrazos.MontageBrazos
+[2020.05.05-14.05.39:724][410]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Sequences/LevelSecuence2.LevelSecuence2
+[2020.05.05-14.05.45:606][ 99]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Sequences/LevelSecuence2.LevelSecuence2:SequenceDirector
+[2020.05.05-14.05.58:974][484]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap
+[2020.05.05-14.06.13:220][716]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.LightSource_0) from referencer (K2Node_Literal /Game/Sequences/LevelSecuence2.LevelSecuence2:SequenceDirector.Sequencer Events.K2Node_Literal_0).  Import failed...
+[2020.05.05-14.06.13:220][716]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef: unresolved reference to 'DirectionalLight'"/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.LightSource_0"''
+[2020.05.05-14.06.13:221][716]LogProperty: Warning: Illegal TEXT reference to a private object in external package (BP_Sky_Sphere_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SkySphereBlueprint) from referencer (K2Node_Literal /Game/Sequences/LevelSecuence2.LevelSecuence2:SequenceDirector.Sequencer Events.K2Node_Literal_1).  Import failed...
+[2020.05.05-14.06.13:221][716]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef: unresolved reference to 'BP_Sky_Sphere_C'"/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SkySphereBlueprint"''
+[2020.05.05-14.06.14:314][789]LogEditorTransaction: Undo Paste clipboard contents
+[2020.05.05-14.06.14:634][789]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2020.05.05-14.06.15:554][867]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.LightSource_0) from referencer (K2Node_Literal /Game/Sequences/LevelSecuence2.LevelSecuence2:SequenceDirector.Sequencer Events.K2Node_Literal_0).  Import failed...
+[2020.05.05-14.06.15:554][867]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef: unresolved reference to 'DirectionalLight'"/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.LightSource_0"''
+[2020.05.05-14.06.15:555][867]LogProperty: Warning: Illegal TEXT reference to a private object in external package (BP_Sky_Sphere_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SkySphereBlueprint) from referencer (K2Node_Literal /Game/Sequences/LevelSecuence2.LevelSecuence2:SequenceDirector.Sequencer Events.K2Node_Literal_1).  Import failed...
+[2020.05.05-14.06.15:555][867]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef: unresolved reference to 'BP_Sky_Sphere_C'"/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SkySphereBlueprint"''
+[2020.05.05-14.06.35:325][654]LogSlate: Took 0.000285 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.05.05-14.06.41:539][817]LogSlate: Window 'Change Variable Type' being destroyed
+[2020.05.05-14.06.47:462][373]LogEditorTransaction: Undo Rename Variable
+[2020.05.05-14.06.47:471][373]LogBlueprint: Warning: [Compiler SequenceDirector] Node  Unknown  is not referencing a valid level actor
+[2020.05.05-14.06.47:471][373]LogBlueprint: Warning: [Compiler SequenceDirector] Node  Unknown  is not referencing a valid level actor
+[2020.05.05-14.06.47:780][373]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2020.05.05-14.06.48:503][432]LogEditorTransaction: Undo Add Variable
+[2020.05.05-14.06.48:509][432]LogBlueprint: Warning: [Compiler SequenceDirector] Could not find a variable named "NewVar_0" in 'SequenceDirector_C'.
+Make sure 'SequenceDirector_C' has been compiled for  Get NewVar_0
+[2020.05.05-14.06.48:510][432]LogBlueprint: Warning: [Compiler SequenceDirector] Node  Unknown  is not referencing a valid level actor
+[2020.05.05-14.06.48:510][432]LogBlueprint: Warning: [Compiler SequenceDirector] Node  Unknown  is not referencing a valid level actor
+[2020.05.05-14.06.48:510][432]LogBlueprint: Error: [Compiler SequenceDirector] The property associated with  New Var 0  could not be found in '/Game/Sequences/LevelSecuence2.SequenceDirector_C'
+[2020.05.05-14.06.48:820][432]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2020.05.05-14.06.49:331][481]LogEditorTransaction: Undo Move Nodes
+[2020.05.05-14.06.49:337][481]LogBlueprint: Warning: [Compiler SequenceDirector] Could not find a variable named "Speed" in 'SequenceDirector_C'.
+Make sure 'SequenceDirector_C' has been compiled for  Get Speed
+[2020.05.05-14.06.49:338][481]LogBlueprint: Warning: [Compiler SequenceDirector] Node  Unknown  is not referencing a valid level actor
+[2020.05.05-14.06.49:338][481]LogBlueprint: Warning: [Compiler SequenceDirector] Node  Unknown  is not referencing a valid level actor
+[2020.05.05-14.06.49:338][481]LogBlueprint: Error: [Compiler SequenceDirector] The property associated with  Speed  could not be found in '/Game/Sequences/LevelSecuence2.SequenceDirector_C'
+[2020.05.05-14.06.49:646][481]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2020.05.05-14.06.50:334][552]LogEditorTransaction: Undo Paste clipboard contents
+[2020.05.05-14.06.50:659][552]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2020.05.05-14.07.07:361][118]BlueprintLog: New page: Compile SequenceDirector
+[2020.05.05-14.07.07:690][118]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2020.05.05-14.07.11:275][475]BlueprintLog: New page: Compile SequenceDirector
+[2020.05.05-14.07.11:587][475]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2020.05.05-14.07.21:644][461]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2020.05.05-14.07.39:831][354]LogSlate: Window 'ThirdPersonExampleMap' being destroyed
+[2020.05.05-14.07.50:672][593]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2020.05.05-14.07.53:554][922]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2020.05.05-14.08.10:816][860]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2020.05.05-14.08.47:920][ 25]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.05.05-14.10.00:391][238]BlueprintLog: New page: Compile SequenceDirector
+[2020.05.05-14.10.00:393][238]LogBlueprint: Error: [Compiler SequenceDirector] This blueprint (self) is not a ThirdPersonCharacter_C, therefore ' Target ' must have a connection.
+[2020.05.05-14.10.00:393][238]LogBlueprint: Error: [Compiler SequenceDirector] Variable node  Set CurrentHealth  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2020.05.05-14.10.00:725][238]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2020.05.05-14.10.03:392][543]BlueprintLog: New page: Compile SequenceDirector
+[2020.05.05-14.10.03:722][543]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2020.05.05-14.10.36:187][524]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.05-14.10.36:211][524]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.05-14.10.36:211][524]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.05-14.10.36:211][524]PIE: New page: PIE session: ThirdPersonExampleMap (May 5, 2020, 6:10:36 PM)
+[2020.05.05-14.10.36:211][524]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.05.05-14.10.36:273][524]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061646s)
+[2020.05.05-14.10.36:274][524]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.05.05-14.10.36:274][524]LogPlayLevel: PIE: World Init took: (0.001026s)
+[2020.05.05-14.10.36:274][524]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.062837s)
+[2020.05.05-14.10.36:326][524]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2020.05.05-14.10.36:328][524]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.05-14.10.36:328][524]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.05-14.10.36:328][524]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.05-14.10.36:328][524]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.05-14.10.36:328][524]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.05-14.10.36:328][524]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.05-14.10.36:328][524]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.05-14.10.36:328][524]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.05-14.10.36:328][524]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.05-14.10.36:328][524]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.05-14.10.36:346][524]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.05-14.10.36:346][524]LogAudioMixer: Display: Name: Altavoces (4- High Definition Audio Device)
+[2020.05.05-14.10.36:346][524]LogAudioMixer: Display: Is Default: Yes
+[2020.05.05-14.10.36:346][524]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.05-14.10.36:346][524]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.05-14.10.36:346][524]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.05-14.10.36:346][524]LogAudioMixer: Display: Channel Order:
+[2020.05.05-14.10.36:346][524]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.05-14.10.36:346][524]LogAudioMixer: Display: 1: FrontRight
+[2020.05.05-14.10.36:358][524]LogAudioMixer: Display: Using Audio Device Altavoces (4- High Definition Audio Device)
+[2020.05.05-14.10.36:360][524]LogInit: FAudioDevice initialized.
+[2020.05.05-14.10.36:372][524]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.05.05-14.10.36:376][524]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.05.05-16.10.36
+[2020.05.05-14.10.36:376][524]LogWorld: Bringing up level for play took: 0.003351
+[2020.05.05-14.10.36:376][524]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2020.05.05-14.10.36:379][524]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.178
+[2020.05.05-14.10.36:380][524]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.05-14.10.46:724][757]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-14.10.46:724][757]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-14.10.46:724][757]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.05-14.10.46:725][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.05-14.10.46:725][757]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.05.05-14.10.46:725][757]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-14.10.46:725][757]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.05-14.10.46:726][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.05-14.10.46:764][757]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.05-14.10.46:764][757]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.05-14.10.46:770][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.05-14.10.46:808][757]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-14.10.46:811][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.05-14.10.46:817][757]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.05.05-14.10.46:836][758]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2020.05.05-14.11.29:125][257]LogActorFactory: Actor Factory created treeplant_08
+[2020.05.05-14.11.29:504][296]LogActorFactory: Actor Factory created treeplant_08
+[2020.05.05-14.11.46:414][182]LogActorFactory: Actor Factory created SM_Bush
+[2020.05.05-14.11.46:793][217]LogActorFactory: Actor Factory created SM_Bush
+[2020.05.05-14.13.16:026][573]LogTexture: Display: Building textures: plant_06_VEC (BGRA8, 7X5)
+[2020.05.05-14.13.16:026][573]LogTexture: Display: Building textures: plant_06_PIV (RGBA16F, 7X5)
+[2020.05.05-14.13.16:026][573]LogStaticMesh: Building static mesh treeplant_06...
+[2020.05.05-14.13.16:101][573]LogStaticMesh: Built static mesh [0.08s] /Game/PN_Pandanus/Meshes/treeplant/treeplant_06.treeplant_06
+[2020.05.05-14.13.16:147][573]LogActorFactory: Actor Factory created treeplant_06
+[2020.05.05-14.13.16:435][574]LogActorFactory: Actor Factory created treeplant_06
+[2020.05.05-14.13.17:739][698]LogActorFactory: Actor Factory created treeplant_06
+[2020.05.05-14.13.27:163][567]Cmd: SELECT NONE
+[2020.05.05-14.13.42:599][295]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/MaterialLandscape/Material1.Material1
+[2020.05.05-14.13.42:626][295]LogMaterial: Display: Missing cached shader map for material Material1, compiling. 
+[2020.05.05-14.13.42:779][295]LogMaterial: Display: Missing cached shader map for material Material1, compiling. 
+[2020.05.05-14.13.42:792][295]LogMaterial: Display: Missing cached shader map for material Material1, compiling. 
+[2020.05.05-14.13.42:808][295]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.05.05-14.13.42:808][295]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.05.05-14.13.42:808][295]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.05.05-14.13.42:808][295]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.05.05-14.13.42:821][295]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.05.05-14.13.42:831][295]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.05.05-14.13.42:842][295]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.05.05-14.13.42:852][295]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerBlend_0, compiling. 
+[2020.05.05-14.13.43:435][343]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 26
+[2020.05.05-14.13.44:042][409]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 25
+[2020.05.05-14.13.44:095][415]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 24
+[2020.05.05-14.13.44:454][449]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 23
+[2020.05.05-14.13.44:825][490]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2020.05.05-14.13.45:261][536]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2020.05.05-14.13.45:511][562]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2020.05.05-14.13.45:882][593]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2020.05.05-14.13.45:927][598]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2020.05.05-14.13.45:943][599]MaterialEditorStats: Base pass shader: 130 instructions
+[2020.05.05-14.13.45:943][599]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 204 instructions
+[2020.05.05-14.13.45:943][599]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.05.05-14.13.45:943][599]MaterialEditorStats: Texture samplers: 6/16
+[2020.05.05-14.13.45:943][599]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2020.05.05-14.13.45:943][599]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.05.05-14.13.46:255][623]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2020.05.05-14.13.46:538][649]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2020.05.05-14.13.46:573][653]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2020.05.05-14.13.46:753][674]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2020.05.05-14.13.47:530][741]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2020.05.05-14.13.47:718][754]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2020.05.05-14.13.47:725][754]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2020.05.05-14.13.48:217][793]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2020.05.05-14.13.48:771][845]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.05.05-14.13.48:804][847]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2020.05.05-14.13.49:037][857]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2020.05.05-14.13.49:346][871]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2020.05.05-14.13.49:515][875]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2020.05.05-14.13.49:695][883]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2020.05.05-14.13.49:840][891]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2020.05.05-14.13.50:300][901]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2020.05.05-14.13.50:510][907]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
