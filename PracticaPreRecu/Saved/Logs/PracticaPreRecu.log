@@ -2942,3 +2942,12 @@ Make sure 'SequenceDirector_C' has been compiled for  Get Speed
 [2020.05.05-14.37.10:859][883]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2020.05.05-14.37.10:866][883]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
 [2020.05.05-14.37.10:923][885]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2020.05.05-14.39.09:729][345]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.05.05-14.39.09:791][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.05.05-14.39.10:186][345]LogSavePackage: Moving 'C:/Users/ÁV/Documents/GitHub/NuevaRecuVidalAlvaro/PracticaPreRecu/Saved/ThirdPersonExampleMap6F98B3254DFA67E561BAC4B9D377A9B5.tmp' to 'C:/Users/ÁV/Documents/GitHub/NuevaRecuVidalAlvaro/PracticaPreRecu/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.05.05-14.39.10:219][345]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.463
+[2020.05.05-14.39.10:220][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HudFolder/CoinsNoti" FILE="C:/Users/ÁV/Documents/GitHub/NuevaRecuVidalAlvaro/PracticaPreRecu/Content/HudFolder/CoinsNoti.uasset" SILENT=true
+[2020.05.05-14.39.10:260][345]LogSavePackage: Moving 'C:/Users/ÁV/Documents/GitHub/NuevaRecuVidalAlvaro/PracticaPreRecu/Saved/CoinsNoti4994CC8946C4DAE7F5E98E80E2852F70.tmp' to 'C:/Users/ÁV/Documents/GitHub/NuevaRecuVidalAlvaro/PracticaPreRecu/Content/HudFolder/CoinsNoti.uasset'
+[2020.05.05-14.39.10:278][345]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.05-14.39.10:279][345]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.05.05-14.39.10:279][345]LogContentValidation: Display: Validating WidgetBlueprint /Game/HudFolder/CoinsNoti.CoinsNoti
