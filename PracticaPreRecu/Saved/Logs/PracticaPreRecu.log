@@ -5017,3 +5017,5 @@ Make sure 'SequenceDirector_C' has been compiled for  Get Speed
 [2020.05.05-15.38.22:820][331]AssetCheck: New page: Asset Save: multiple assets
 [2020.05.05-15.38.22:820][331]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2020.05.05-15.38.22:820][331]LogContentValidation: Display: Validating WidgetBlueprint /Game/HudFolder/DanceNoti.DanceNoti
+[2020.05.05-15.39.03:620][432]Cmd: SELECT NONE
+[2020.05.05-15.40.49:806][145]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
