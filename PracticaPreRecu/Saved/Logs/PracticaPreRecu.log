@@ -983,3 +983,62 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.05-13.41.09:091][187]AssetCheck: New page: Asset Save: multiple assets
 [2020.05.05-13.41.09:091][187]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2020.05.05-13.41.09:091][187]LogContentValidation: Display: Validating LevelSequence /Game/Sequences/LevelSecuence2.LevelSecuence2
+[2020.05.05-13.41.53:319][399]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Sequences/LevelSecuence2.LevelSecuence2:SequenceDirector
+[2020.05.05-13.41.53:653][399]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2020.05.05-13.42.06:362][657]LogSlate: Window 'SequenceDirector' being destroyed
+[2020.05.05-13.42.06:366][657]LogSlate: Window 'SequenceDirector' being destroyed
+[2020.05.05-13.42.06:367][657]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.05.05-13.42.06:367][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.05-13.42.06:411][657]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.05.05-13.42.06:412][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.05-13.42.25:843][994]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.05.05-13.42.49:386][415]Cmd: TRANSACTION UNDO
+[2020.05.05-13.42.49:386][415]LogEditorTransaction: Undo Possess Object in Sequencer
+[2020.05.05-13.42.50:504][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.05.05-13.43.17:259][762]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.05.05-13.43.58:979][503]LogBlueprintUserMessages: [LevelSecuence2_Director_1] Hello
+[2020.05.05-13.44.05:188][147]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall9)
+[2020.05.05-13.44.11:431][871]Cmd: TRANSACTION UNDO
+[2020.05.05-13.44.11:431][871]LogEditorTransaction: Undo Clicking on Actors
+[2020.05.05-13.44.11:978][883]Cmd: TRANSACTION UNDO
+[2020.05.05-13.44.11:978][883]LogEditorTransaction: Undo Set Key Value
+[2020.05.05-13.44.12:880][981]Cmd: TRANSACTION UNDO
+[2020.05.05-13.44.12:880][981]LogEditorTransaction: Undo Set Key Value
+[2020.05.05-13.44.13:323][ 31]Cmd: TRANSACTION UNDO
+[2020.05.05-13.44.13:323][ 31]LogEditorTransaction: Undo Set Key Value
+[2020.05.05-13.44.13:783][ 84]Cmd: TRANSACTION UNDO
+[2020.05.05-13.44.13:783][ 84]LogEditorTransaction: Undo Add Keys at Current Time
+[2020.05.05-13.44.14:282][139]Cmd: TRANSACTION UNDO
+[2020.05.05-13.44.14:282][139]LogEditorTransaction: Undo Set Key
+[2020.05.05-13.44.25:177][339]LogBlueprintUserMessages: [LevelSecuence2_Director_1] Hello
+[2020.05.05-13.44.25:531][350]LogBlueprintUserMessages: [LevelSecuence2_Director_1] Hello
+[2020.05.05-13.44.26:829][495]LogBlueprintUserMessages: [LevelSecuence2_Director_1] Hello
+[2020.05.05-13.45.01:238][296]LogBlueprintUserMessages: [LevelSecuence2_Director_1] Hello
+[2020.05.05-13.45.01:606][333]LogBlueprintUserMessages: [LevelSecuence2_Director_1] Hello
+[2020.05.05-13.45.11:601][439]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.05-13.45.13:569][628]LogBlueprintUserMessages: [LevelSecuence2_Director_1] Hello
+[2020.05.05-13.45.15:087][767]LogBlueprintUserMessages: [LevelSecuence2_Director_1] Hello
+[2020.05.05-13.45.22:153][504]LogBlueprintUserMessages: [LevelSecuence2_Director_1] Hello
+[2020.05.05-13.45.30:930][392]Cmd: TRANSACTION UNDO
+[2020.05.05-13.45.30:930][392]LogEditorTransaction: Undo Set Key Value
+[2020.05.05-13.45.31:333][403]Cmd: TRANSACTION UNDO
+[2020.05.05-13.45.31:333][403]LogEditorTransaction: Undo Edit Light Color
+[2020.05.05-13.45.31:621][426]Cmd: TRANSACTION UNDO
+[2020.05.05-13.45.31:621][426]LogEditorTransaction: Undo Set Key Value
+[2020.05.05-13.45.32:093][479]Cmd: TRANSACTION UNDO
+[2020.05.05-13.45.32:093][479]LogEditorTransaction: Undo Add Keys at Current Time
+[2020.05.05-13.45.52:930][762]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.05-13.45.57:483][277]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall9)
+[2020.05.05-13.45.58:035][336]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.05.05-13.46.34:103][229]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.05-13.46.35:613][401]LogBlueprintUserMessages: [LevelSecuence2_Director_1] Hello
+[2020.05.05-13.46.59:304][931]LogBlueprintUserMessages: [LevelSecuence2_Director_1] Hello
+[2020.05.05-13.47.05:241][490]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2020.05.05-13.47.05:328][490]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2020.05.05-13.47.05:662][490]LogSavePackage: Moving 'C:/Users/ÁV/Documents/GitHub/NuevaRecuVidalAlvaro/PracticaPreRecu/Saved/ThirdPersonExampleMap5E50BBA943349390C6A9B191D62D3198.tmp' to 'C:/Users/ÁV/Documents/GitHub/NuevaRecuVidalAlvaro/PracticaPreRecu/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.05.05-13.47.05:698][490]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.428
+[2020.05.05-13.47.05:699][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/LevelSecuence2" FILE="C:/Users/ÁV/Documents/GitHub/NuevaRecuVidalAlvaro/PracticaPreRecu/Content/Sequences/LevelSecuence2.uasset" SILENT=true
+[2020.05.05-13.47.05:728][490]LogSavePackage: Moving 'C:/Users/ÁV/Documents/GitHub/NuevaRecuVidalAlvaro/PracticaPreRecu/Saved/LevelSecuence27FF9ACF64D4365C26DB928987AE27409.tmp' to 'C:/Users/ÁV/Documents/GitHub/NuevaRecuVidalAlvaro/PracticaPreRecu/Content/Sequences/LevelSecuence2.uasset'
+[2020.05.05-13.47.05:746][490]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.05-13.47.05:746][490]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.05.05-13.47.05:746][490]LogContentValidation: Display: Validating LevelSequence /Game/Sequences/LevelSecuence2.LevelSecuence2
