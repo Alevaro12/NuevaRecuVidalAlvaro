@@ -1042,3 +1042,20 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.05-13.47.05:746][490]AssetCheck: New page: Asset Save: multiple assets
 [2020.05.05-13.47.05:746][490]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2020.05.05-13.47.05:746][490]LogContentValidation: Display: Validating LevelSequence /Game/Sequences/LevelSecuence2.LevelSecuence2
+[2020.05.05-13.47.41:959][938]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.05.05-13.47.41:989][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/LevelSecuence2" FILE="C:/Users/ÁV/Documents/GitHub/NuevaRecuVidalAlvaro/PracticaPreRecu/Content/Sequences/LevelSecuence2.uasset" SILENT=true
+[2020.05.05-13.47.42:012][938]LogSavePackage: Moving 'C:/Users/ÁV/Documents/GitHub/NuevaRecuVidalAlvaro/PracticaPreRecu/Saved/LevelSecuence225AE62CA481ACAEB7371429D274E69A6.tmp' to 'C:/Users/ÁV/Documents/GitHub/NuevaRecuVidalAlvaro/PracticaPreRecu/Content/Sequences/LevelSecuence2.uasset'
+[2020.05.05-13.47.42:026][938]AssetCheck: New page: Asset Save: LevelSecuence2
+[2020.05.05-13.47.42:026][938]LogContentValidation: Display: Validating LevelSequence /Game/Sequences/LevelSecuence2.LevelSecuence2
+[2020.05.05-13.48.51:206][687]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2020.05.05-13.48.52:223][759]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.05-13.50.32:116][668]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2020.05.05-13.50.32:126][668]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.05.05-13.50.32:296][668]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.05-13.50.32:300][668]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2020.05.05-13.50.32:637][668]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.05.05-13.50.33:215][668]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.05.05-13.51.04:746][  3]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2020.05.05-13.51.04:839][  3]LogSavePackage: Moving 'C:/Users/ÁV/Documents/GitHub/NuevaRecuVidalAlvaro/PracticaPreRecu/Saved/ThirdPerson_AnimBPAB5F6E704D2067C869A475825FA71AC0.tmp' to 'C:/Users/ÁV/Documents/GitHub/NuevaRecuVidalAlvaro/PracticaPreRecu/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2020.05.05-13.51.04:856][  3]AssetCheck: New page: Asset Save: ThirdPerson_AnimBP
+[2020.05.05-13.51.04:856][  3]LogContentValidation: Display: Validating AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
