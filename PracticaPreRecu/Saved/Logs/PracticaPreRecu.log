@@ -4021,3 +4021,72 @@ Make sure 'SequenceDirector_C' has been compiled for  Get Speed
 [2020.05.05-15.22.56:426][393]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.525
 [2020.05.05-15.22.56:439][393]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
 [2020.05.05-15.22.56:439][393]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.05.05-15.25.09:142][304]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.05-15.25.09:168][304]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.05-15.25.09:168][304]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.05-15.25.09:168][304]PIE: New page: PIE session: ThirdPersonExampleMap (May 5, 2020, 7:25:09 PM)
+[2020.05.05-15.25.09:168][304]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.05.05-15.25.09:236][304]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067999s)
+[2020.05.05-15.25.09:237][304]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.05.05-15.25.09:238][304]LogPlayLevel: PIE: World Init took: (0.001288s)
+[2020.05.05-15.25.09:238][304]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.069433s)
+[2020.05.05-15.25.09:296][304]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2020.05.05-15.25.09:299][304]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.05-15.25.09:299][304]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.05-15.25.09:299][304]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.05-15.25.09:299][304]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.05-15.25.09:299][304]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.05-15.25.09:299][304]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.05-15.25.09:299][304]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.05-15.25.09:299][304]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.05-15.25.09:300][304]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.05-15.25.09:300][304]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.05-15.25.09:315][304]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.05-15.25.09:315][304]LogAudioMixer: Display: Name: Altavoces (4- High Definition Audio Device)
+[2020.05.05-15.25.09:315][304]LogAudioMixer: Display: Is Default: Yes
+[2020.05.05-15.25.09:315][304]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.05-15.25.09:315][304]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.05-15.25.09:315][304]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.05-15.25.09:315][304]LogAudioMixer: Display: Channel Order:
+[2020.05.05-15.25.09:315][304]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.05-15.25.09:315][304]LogAudioMixer: Display: 1: FrontRight
+[2020.05.05-15.25.09:325][304]LogAudioMixer: Display: Using Audio Device Altavoces (4- High Definition Audio Device)
+[2020.05.05-15.25.09:327][304]LogInit: FAudioDevice initialized.
+[2020.05.05-15.25.09:333][304]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.05.05-15.25.09:338][304]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.05.05-17.25.09
+[2020.05.05-15.25.09:338][304]LogWorld: Bringing up level for play took: 0.003827
+[2020.05.05-15.25.09:338][304]LogOnline: OSS: Creating online subsystem instance for: :Context_103
+[2020.05.05-15.25.09:341][304]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.139
+[2020.05.05-15.25.09:341][304]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.05-15.25.18:641][407]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-15.25.18:641][407]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-15.25.18:641][407]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.05-15.25.18:642][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.05-15.25.18:642][407]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.05.05-15.25.18:642][407]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-15.25.18:642][407]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.05-15.25.18:643][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.05-15.25.18:652][407]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.05-15.25.18:652][407]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.05-15.25.18:659][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.05-15.25.18:700][407]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-15.25.18:702][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.05-15.25.18:711][407]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2020.05.05-15.25.18:740][408]LogPlayLevel: Display: Destroying online subsystem :Context_103
+[2020.05.05-15.26.18:340][933]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight)
+[2020.05.05-15.26.44:234][299]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.05-15.28.11:055][439]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.05-15.28.13:280][656]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall9)
+[2020.05.05-15.28.13:382][658]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.05.05-15.28.14:240][738]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.05.05-15.28.14:602][771]LogEditorViewport: Clicking on Actor (double click): SpotLight (SpotLight)
+[2020.05.05-15.28.14:825][788]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2020.05.05-15.29.12:725][128]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2020.05.05-15.29.12:805][128]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.05.05-15.29.13:258][128]LogSavePackage: Moving 'C:/Users/ÁV/Documents/GitHub/NuevaRecuVidalAlvaro/PracticaPreRecu/Saved/ThirdPersonExampleMapA3A0D43245E6F1509D204794CD5E5DD5.tmp' to 'C:/Users/ÁV/Documents/GitHub/NuevaRecuVidalAlvaro/PracticaPreRecu/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.05.05-15.29.13:295][128]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.540
+[2020.05.05-15.29.13:295][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/LevelSecuence2" FILE="C:/Users/ÁV/Documents/GitHub/NuevaRecuVidalAlvaro/PracticaPreRecu/Content/Sequences/LevelSecuence2.uasset" SILENT=true
+[2020.05.05-15.29.13:328][128]LogSavePackage: Moving 'C:/Users/ÁV/Documents/GitHub/NuevaRecuVidalAlvaro/PracticaPreRecu/Saved/LevelSecuence2474DBEAE4EA7E51D1EBD80A1E07F90B2.tmp' to 'C:/Users/ÁV/Documents/GitHub/NuevaRecuVidalAlvaro/PracticaPreRecu/Content/Sequences/LevelSecuence2.uasset'
+[2020.05.05-15.29.13:349][128]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.05-15.29.13:349][128]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.05.05-15.29.13:349][128]LogContentValidation: Display: Validating LevelSequence /Game/Sequences/LevelSecuence2.LevelSecuence2
